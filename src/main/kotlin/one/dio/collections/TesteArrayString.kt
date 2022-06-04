@@ -9,7 +9,6 @@ fun main() {
     names.forEach { println(it) }
 
     //or
-
     val otherNames = arrayOf("Francisco", "Felipe", "Pedro")
     otherNames.sort()
 
