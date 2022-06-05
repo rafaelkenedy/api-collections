@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e0f110a-2474-469f-b0b8-365b7daa1b94" name="Changes" comment="set test">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/TestMap.kt" afterDir="false" />
+    <list default="true" id="0e0f110a-2474-469f-b0b8-365b7daa1b94" name="Changes" comment="map test">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/TestMutable.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/TestSet.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/TestSet.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +18,7 @@
       <list>
         <option value="Kotlin Data Class" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -41,14 +41,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.TestMapKt">
-    <configuration name="TestDoubleArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.dio.collections.TestDoubleArrayKt" />
-      <module name="consoleApp" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.TestMutableKt">
     <configuration name="TestListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="one.dio.collections.TestListKt" />
       <module name="consoleApp" />
@@ -58,6 +51,13 @@
     </configuration>
     <configuration name="TestMapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="one.dio.collections.TestMapKt" />
+      <module name="consoleApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMutableKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.dio.collections.TestMutableKt" />
       <module name="consoleApp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TestMutableKt" />
         <item itemvalue="Kotlin.TestMapKt" />
         <item itemvalue="Kotlin.TestSetKt" />
         <item itemvalue="Kotlin.TestListKt" />
         <item itemvalue="Kotlin.TestOperationsKt" />
-        <item itemvalue="Kotlin.TestDoubleArrayKt" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654390574500</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="map test">
+      <created>1654391353062</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1654391353062</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,6 +219,7 @@
     <MESSAGE value="sorted by test" />
     <MESSAGE value="group by test" />
     <MESSAGE value="set test" />
-    <option name="LAST_COMMIT_MESSAGE" value="set test" />
+    <MESSAGE value="map test" />
+    <option name="LAST_COMMIT_MESSAGE" value="map test" />
   </component>
 </project>
