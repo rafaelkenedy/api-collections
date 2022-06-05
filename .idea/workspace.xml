@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e0f110a-2474-469f-b0b8-365b7daa1b94" name="Changes" comment="mutable list and mutable set test">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/Repository.kt" afterDir="false" />
+    <list default="true" id="0e0f110a-2474-469f-b0b8-365b7daa1b94" name="Changes" comment="mutable map test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/Repository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/Repository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/TestMutableMap.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/TestMutableMap.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,7 +202,21 @@
       <option name="project" value="LOCAL" />
       <updated>1654392374396</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="mutable map test">
+      <created>1654392770930</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1654392770930</updated>
+    </task>
+    <task id="LOCAL-00017" summary="mutable map test">
+      <created>1654392782567</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1654392782567</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -228,6 +243,7 @@
     <MESSAGE value="set test" />
     <MESSAGE value="map test" />
     <MESSAGE value="mutable list and mutable set test" />
-    <option name="LAST_COMMIT_MESSAGE" value="mutable list and mutable set test" />
+    <MESSAGE value="mutable map test" />
+    <option name="LAST_COMMIT_MESSAGE" value="mutable map test" />
   </component>
 </project>

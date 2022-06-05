@@ -16,4 +16,9 @@ fun main() {
 
     println(repository.findById(daniel.name))
     println(repository.findById(rafaela.name))
+
+    repository.remove(rafaela.name)
+
+    println("All: ")
+    repository.findAll().forEach { println(it) }
 }
