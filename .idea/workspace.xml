@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e0f110a-2474-469f-b0b8-365b7daa1b94" name="Changes" comment="Operations test">
+    <list default="true" id="0e0f110a-2474-469f-b0b8-365b7daa1b94" name="Changes" comment="count, find and any test">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/TestList.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/TestOperations.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/TestOperations.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.TestOperationsKt">
+  <component name="RunManager" selected="Kotlin.TestListKt">
     <configuration name="TestArrayStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="one.dio.collections.TestArrayStringKt" />
       <module name="consoleApp" />
@@ -54,15 +54,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestInArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.dio.collections.TestInArrayKt" />
+    <configuration name="TestIntArrayOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.dio.collections.TestIntArrayOfKt" />
       <module name="consoleApp" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestIntArrayOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.dio.collections.TestIntArrayOfKt" />
+    <configuration name="TestListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.dio.collections.TestListKt" />
       <module name="consoleApp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TestListKt" />
         <item itemvalue="Kotlin.TestOperationsKt" />
         <item itemvalue="Kotlin.TestDoubleArrayKt" />
         <item itemvalue="Kotlin.TestArrayStringKt" />
         <item itemvalue="Kotlin.TestIntArrayOfKt" />
-        <item itemvalue="Kotlin.TestInArrayKt" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654388132506</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="count, find and any test">
+      <created>1654388454486</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1654388454486</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,6 +177,7 @@
     <MESSAGE value="array of String" />
     <MESSAGE value="array of Double" />
     <MESSAGE value="Operations test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Operations test" />
+    <MESSAGE value="count, find and any test" />
+    <option name="LAST_COMMIT_MESSAGE" value="count, find and any test" />
   </component>
 </project>
