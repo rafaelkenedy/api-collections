@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e0f110a-2474-469f-b0b8-365b7daa1b94" name="Changes" comment="mutable map test">
+    <list default="true" id="0e0f110a-2474-469f-b0b8-365b7daa1b94" name="Changes" comment="Simple crud map example">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/BigDecimal.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/TestExtended.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/Repository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/Repository.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/TestMutableMap.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/TestMutableMap.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +18,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Data Class" />
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -42,9 +42,9 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.TestMutableMapKt">
-    <configuration name="TestListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.dio.collections.TestListKt" />
+  <component name="RunManager" selected="Kotlin.TestExtendedKt">
+    <configuration name="TestExtendedKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.dio.collections.TestExtendedKt" />
       <module name="consoleApp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TestExtendedKt" />
         <item itemvalue="Kotlin.TestMutableMapKt" />
         <item itemvalue="Kotlin.TestMutableKt" />
         <item itemvalue="Kotlin.TestMapKt" />
         <item itemvalue="Kotlin.TestSetKt" />
-        <item itemvalue="Kotlin.TestListKt" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654392782567</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Simple crud map example">
+      <created>1654393097574</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1654393097574</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -244,6 +251,7 @@
     <MESSAGE value="map test" />
     <MESSAGE value="mutable list and mutable set test" />
     <MESSAGE value="mutable map test" />
-    <option name="LAST_COMMIT_MESSAGE" value="mutable map test" />
+    <MESSAGE value="Simple crud map example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Simple crud map example" />
   </component>
 </project>
