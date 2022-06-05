@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e0f110a-2474-469f-b0b8-365b7daa1b94" name="Changes" comment="array of String">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/TestDoubleArray.kt" afterDir="false" />
+    <list default="true" id="0e0f110a-2474-469f-b0b8-365b7daa1b94" name="Changes" comment="array of Double">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/TestOperations.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/TesteArrayString.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/TestArrayString.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +41,14 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.TestDoubleArrayKt">
+  <component name="RunManager" selected="Kotlin.TestOperationsKt">
+    <configuration name="TestArrayStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.dio.collections.TestArrayStringKt" />
+      <module name="consoleApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestDoubleArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="one.dio.collections.TestDoubleArrayKt" />
       <module name="consoleApp" />
@@ -61,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteArrayStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.dio.collections.TesteArrayStringKt" />
+    <configuration name="TestOperationsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.dio.collections.TestOperationsKt" />
       <module name="consoleApp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,8 +79,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TestOperationsKt" />
         <item itemvalue="Kotlin.TestDoubleArrayKt" />
-        <item itemvalue="Kotlin.TesteArrayStringKt" />
+        <item itemvalue="Kotlin.TestArrayStringKt" />
         <item itemvalue="Kotlin.TestIntArrayOfKt" />
         <item itemvalue="Kotlin.TestInArrayKt" />
       </list>
@@ -114,7 +124,21 @@
       <option name="project" value="LOCAL" />
       <updated>1654387111970</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="array of String">
+      <created>1654387426629</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1654387426629</updated>
+    </task>
+    <task id="LOCAL-00006" summary="array of Double">
+      <created>1654387451627</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1654387451627</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,6 +156,7 @@
     <MESSAGE value="First Commit" />
     <MESSAGE value="test intArrayOf" />
     <MESSAGE value="array of String" />
-    <option name="LAST_COMMIT_MESSAGE" value="array of String" />
+    <MESSAGE value="array of Double" />
+    <option name="LAST_COMMIT_MESSAGE" value="array of Double" />
   </component>
 </project>
