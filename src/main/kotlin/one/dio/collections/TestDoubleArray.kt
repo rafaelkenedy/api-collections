@@ -12,6 +12,5 @@ fun main(){
     fees.forEachIndexed { index, salary ->
         fees[index] = salary * 1.1
     }
-
     fees.forEach { println(round(it)) }
 }
