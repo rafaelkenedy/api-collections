@@ -21,5 +21,4 @@ fun main() {
     employeesSubtract.forEach{ println(it) }
     println("Intersect:")
     employeesIntersect.forEach{ println(it) }
-
 }
