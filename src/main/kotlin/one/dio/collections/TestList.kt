@@ -1,5 +1,7 @@
 package one.dio.collections
 
+import kotlin.math.round
+
 fun main() {
 
     val rafael = Employee("Rafael", 5000.0)
@@ -10,6 +12,11 @@ fun main() {
 
     println("Finding Danielle:")
     println(employees.find { it.name === "Danielle" })
+
+    println("Sorted by salary:")
+    employees
+        .sortedBy { it.salary }
+        .forEach { println(it) }
 }
 
 data class Employee(

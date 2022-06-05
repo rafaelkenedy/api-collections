@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e0f110a-2474-469f-b0b8-365b7daa1b94" name="Changes" comment="count, find and any test">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/TestList.kt" afterDir="false" />
+    <list default="true" id="0e0f110a-2474-469f-b0b8-365b7daa1b94" name="Changes" comment="List test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/TestList.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/one/dio/collections/TestList.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654388454486</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="List test">
+      <created>1654389153672</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1654389153672</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,6 +185,7 @@
     <MESSAGE value="array of Double" />
     <MESSAGE value="Operations test" />
     <MESSAGE value="count, find and any test" />
-    <option name="LAST_COMMIT_MESSAGE" value="count, find and any test" />
+    <MESSAGE value="List test" />
+    <option name="LAST_COMMIT_MESSAGE" value="List test" />
   </component>
 </project>
