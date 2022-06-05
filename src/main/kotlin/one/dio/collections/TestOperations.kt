@@ -11,7 +11,6 @@ fun main() {
     )
 
     fees.forEach { println(round(it)) }
-
     println("High: ${fees.maxOrNull()}")
     println("Least: ${fees.minOrNull()}")
     println("Average: ${round(fees.average())}")
