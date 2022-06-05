@@ -1,7 +1,5 @@
 package one.dio.collections
 
-import kotlin.math.round
-
 fun main() {
 
     //Imutable List
@@ -24,16 +22,4 @@ fun main() {
     employees
         .groupBy { it.gender}
         .forEach { println(it) }
-}
-
-data class Employee(
-    val name: String,
-    val salary: Double,
-    val gender: String
-) {
-    override fun toString(): String =
-        """
-            Name: $name
-            Salary: $salary            
-        """.trimIndent()
 }
